@@ -23,7 +23,7 @@ The objective of this repository is to share practical knowledge and educational
 
 Additional resources and insights can be found at:
 
-https://www.visualexportems.com
+[Visual Export](https://www.visualexportems.com)
 
 ## Future Additions
 
